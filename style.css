@@ -1,0 +1,109 @@
+/* CSS Document */
+div.heading
+{
+	padding:10px 10px;
+	background-color:#1fada6;
+	color:#FFFFFF;
+	font-family:Georgia, "Times New Roman", Times, serif;
+	font-size:18px;
+}
+div.right
+{
+
+border:1px dashed #222;
+float:left;
+margin-left:auto;
+margin-right:8px;
+padding:10px;
+display:block;
+}
+div.left
+{
+border:1px dashed #222;
+float:left;
+margin-left:auto;
+margin-right:8px;
+padding:10px;
+display:block;
+width:180px;
+}
+  .side ul li
+  {
+    width: 40%;
+    float: left;
+    padding-left: 5%;
+    margin-bottom: 10px;
+	font-size:14px;
+	margin-left: 100px;
+}
+ul li
+{
+	list-style-type:none;
+}
+ul{
+	display:block;
+	color:#333333;
+	margin:0px;
+	padding:0px;
+	width:100%;
+	float:left;
+}
+body
+{
+background-image:url(images/bg.png);
+}
+div.tab
+{
+margin:10px 50px 10px 10px;
+}
+div.add
+{
+display:block;
+margin-left:auto;
+margin-right:auto;
+}
+.heading
+{
+background-color:#006633;
+color:white;
+margin:20px;
+text-align:center;
+}
+#center
+{
+width:50%;
+display:block;
+margin-top:50px;
+margin-left:auto;
+margin-right:auto;
+border:2px solid;
+}
+#content
+{
+padding-top:10px;
+padding-left:50px;
+padding-right:20px;
+padding-bottom:20px;
+}
+.span
+{width:200px;
+padding-bottom:10px;
+}
+#span2
+{
+margin-right:25px;
+}
+.span12
+{
+margin-left:120px;
+}
+ a:link, a:visited, a:hover, a:active {
+    text-decoration:none;
+}
+.error
+{
+	color: red;
+}
+/* The Modal (background) */
+
+/* The Close Button */
